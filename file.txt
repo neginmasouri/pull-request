@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 In this file we'll create pill request
 add another text
 fdfdgd
+=======
+>>>>>>> 638d4811d1075a1184c7cd32b6c09f75b818a9b3
+"hello" 
